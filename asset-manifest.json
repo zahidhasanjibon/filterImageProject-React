@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/filterImageProject-React/static/css/main.27ce24ce.chunk.css",
+    "main.js": "/filterImageProject-React/static/js/main.f69b7433.chunk.js",
+    "main.js.map": "/filterImageProject-React/static/js/main.f69b7433.chunk.js.map",
+    "runtime-main.js": "/filterImageProject-React/static/js/runtime-main.083b8a1e.js",
+    "runtime-main.js.map": "/filterImageProject-React/static/js/runtime-main.083b8a1e.js.map",
+    "static/css/2.c490997a.chunk.css": "/filterImageProject-React/static/css/2.c490997a.chunk.css",
+    "static/js/2.ebb080af.chunk.js": "/filterImageProject-React/static/js/2.ebb080af.chunk.js",
+    "static/js/2.ebb080af.chunk.js.map": "/filterImageProject-React/static/js/2.ebb080af.chunk.js.map",
+    "static/js/3.923d67ae.chunk.js": "/filterImageProject-React/static/js/3.923d67ae.chunk.js",
+    "static/js/3.923d67ae.chunk.js.map": "/filterImageProject-React/static/js/3.923d67ae.chunk.js.map",
+    "index.html": "/filterImageProject-React/index.html",
+    "static/css/2.c490997a.chunk.css.map": "/filterImageProject-React/static/css/2.c490997a.chunk.css.map",
+    "static/css/main.27ce24ce.chunk.css.map": "/filterImageProject-React/static/css/main.27ce24ce.chunk.css.map",
+    "static/js/2.ebb080af.chunk.js.LICENSE.txt": "/filterImageProject-React/static/js/2.ebb080af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.083b8a1e.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.ebb080af.chunk.js",
+    "static/css/main.27ce24ce.chunk.css",
+    "static/js/main.f69b7433.chunk.js"
+  ]
+}
